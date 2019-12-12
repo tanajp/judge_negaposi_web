@@ -1,0 +1,18 @@
+<!doctype html>
+<html>
+    <head>
+        <title>NegaPosi Judgement</title>
+        <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    </head>
+    <body style="margin: 0;">
+        {% from "jinja2.html" import render_field %}
+    <div><font size="6">ネガポジ判定をしよう</font></div>
+    <form method=post action="/negaposi">
+        <dl style="margin: 0;">
+            {{ render_field(form.sayhello, cols='70', rows='5') }}
+        </dl>
+        <input type=submit value='判定' name='submit_btn'>
+    </form>
+
+    </body>
+</html>
