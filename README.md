@@ -25,7 +25,9 @@ Python 3.7.4
 ┗ templates     
 　　　┣ jinja2.html     
 　　　┣ app.html    
-　　　┗ negaposi.html      
+　　　┗ negaposi.html     
+   
+<br>
    
 ## 必要なファイル
 | ファイル名 | 役割 |
@@ -37,6 +39,7 @@ Python 3.7.4
 | app.py | ソースコード |
 | polarity.txt | 単語感情極性対応表 |
 
+<br>
 
 ## 動作イメージ
 ![スクリーンショット 2020-01-08 18 55 46](https://user-images.githubusercontent.com/50686226/71968565-88a88100-3248-11ea-877d-a2bbf8885d4e.png) ![スクリーンショット 2020-01-08 18 55 55](https://user-images.githubusercontent.com/50686226/71968591-978f3380-3248-11ea-9b4e-669f91f07c11.png)
