@@ -16,6 +16,6 @@ Python 3.7.4
 ┣ static   
 ┃    ┗ style.css   
 ┗ templates     
-      ┣ jinja2.html     
-      ┣ app.html    
-      ┗ negaposi.html      
+　　　┣ jinja2.html     
+　　　┣ app.html    
+　　　┗ negaposi.html      
