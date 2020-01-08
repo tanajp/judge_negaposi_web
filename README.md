@@ -25,3 +25,16 @@ Python 3.7.4
 　　　┣ jinja2.html     
 　　　┣ app.html    
 　　　┗ negaposi.html      
+   
+## 必要なファイル
+| ファイル名 | 役割 |
+----|---- 
+| style.css | HTML文書の体裁を整える。 |
+| jinja2.html | テンプレートエンジン |
+| app.html | テキスト入力画面 |
+| negaposi.html | 判定結果表示画面 |
+| app.py | ソースコード |
+| polarity.txt | 単語感情極性対応表 |
+
+
+## 動作イメージ
